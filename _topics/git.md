@@ -6,9 +6,8 @@ desc: "An introduction. git vs. github.com vs. github.ucsb.edu, repos, etc."
 A few basics facts about git, github.com, and github.ucsb.edu
 ----------------------------------------------------------------------------
 
-In addition to learning C++, one of the major goals of this course is to get really comfortable\
- with "version control", using a tool called "git" and a website called "github.com", and one ca\
-lled "github.ucsb.edu". Our first step is to "clone a github repo".
+Some of the courses in the CS undergraduate program use a tool called `git` along with websites
+<https://github.com> and/or <https://github.ucsb.edu> for *version control*.
 
 
 ### What is git and what is a repo?
@@ -49,4 +48,4 @@ want to set up their own private "github" like servers within their
 enterprise. UCSB licensed this software and set up a github server
 called github.ucsb.edu that is based on your CSIL account.
 
-We may use github.com for some assignments and github.ucsb.edu for others.
+Some courses  may use github.com while others might use  github.ucsb.edu.
