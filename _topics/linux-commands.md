@@ -1,5 +1,5 @@
 ---
-topic: "Basic Unix-Like Operating System Commands"
+topic: "Linux Commands"
 desc: "An introduction. Basic linux commands"
 ---
 
