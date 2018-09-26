@@ -32,6 +32,8 @@ ssh username@csil-01.cs.ucsb.edu
 
 After you press enter, the system will ask you for your username and password for CSIL, and once that is completed you will be successfully remotely accessing a CSIl computer
 
+PLEASE NOTE if you have a Windows computer, you have to jump through a couple more hoops. See [Command Line](/_topics/command_line) for instructions on programming through the command line
+
 # CSIL is the system of record
 
 Typically, professors and TAs say that your program "works" if and only if it "works on CSIL".
@@ -39,14 +41,3 @@ Typically, professors and TAs say that your program "works" if and only if it "w
 So, if you are working on a program on your own machine, that's fine--but make sure before you
 turn it in, you test it on CSIL.
 
-
-# Linux Environments on Windows
-
-* "Git for Windows" gives you a bash shell with a bunch of the normal Unix commands
-* Ubuntu Windows Subsystem may be a thing on your system
-* Cygwin is an option
-* Maybe you could run Linux in a virtual machine or Docker container?
-
-# MobaXTerm
-
-TBD
