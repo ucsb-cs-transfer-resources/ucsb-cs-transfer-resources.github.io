@@ -1,51 +1,27 @@
 ---
 topic: "Linux Commands"
-desc: "An introduction. Basic linux commands"
+desc: "A variety of resources related to Unix and Linux, esp. command line tools"
 ---
 
-A few rudimentary Linux commands
-----------------------------------------------------------------------------
+Linux is the operating system that is used on the machines in Phelps 3525 and the CSIL lab.
 
-Some of the courses in the CS undergraduate program use a tool called `git` along with websites
-<https://github.com> and/or <https://github.ucsb.edu> for *version control*.
+Linux is a particular variant of the Unix family of operating systems.
 
+The Mac operating system from version 10 onward (i.e. MacOS X) is also a Unix derived system.
 
-### What is linux?
+Most of what you will be using related to Unix/Linux actually pertains to command line tools that you access from the bash shell. This includes commands such as `ls`, `cd`, `mkdir`, `cp`, `mv`, etc. A great way to learn about these commands is to type another command `man` followed by the desired command. ie . `man ls` will provide the following manual plus more:
+`ls -- list directory contents`
+`cd -- change the shell working directory`
+`pwd -- print name of current/working directory`
+`mkdir -- make directories`
+`cp -- copy files and directories`
+`mv -- move (rename) files`
+`rm -- remove files or directories`
+`grep -- print lines matching a pattern`
+`cat -- concatenate files and print on the standard output`
+`chmod -- change file mode bits`
+`ssh --	secure shell client (remote login program)`
 
-The software package "git" is an example of a "version control system". (Others include SVN, Mercurial, and in a previous generations, CVS, RCS, and SCCS).
+While these commands are associated with Unix, because they originally appeared on Unix systems, in fact, they have been ported to many other systems as well.  Cygwin is a package for Windows that allows users to run many programs associated with Unix on Windows systems.
 
-A git repo (short for repository) is nothing more than a collection of files and directories (folders), along with a special subdirectory called .git (stored only once in the top level directo\
-ry of the repo) that keeps track of the complete history of the files and directories contained in the repo. To some extent, the ".git" directory stays out of your way, and you use the files a\
-nd directories in the repository exactly the same way you'd use files and directories in a regular directory.
-
-On the other hand, keeping files in a git repository has many advantages:
-
--   making it easier to collaborate with others on a project (whether that's an open source or closed source project)
--   making it easier to recover from screwups (like deleting important files, messing up code that was previously working, complete failure of your hard drive)
--   making it easier to share "works in progress" with TAs and instructors and fellow students to get help during lab, office hours, or by email
--   making it easier to share "open source" projects with others on the internet.
-
-### What is github.ucsb.edu and github.com, and how do they differ from git?
-
-A git repository can be local, on your file system, or it can be
-remote on a server somewhere on the Internet. (We might say, using
-terminology that is trendy these days, that a repo on the internet is
-"in the cloud" if we get to remain blissfully ignorant of exactly how
-that service is being provided to us—i,.e. someone else is worrying
-about all the system management issues like keeping that server up and
-running, keeping it free of malware and defending from Denial of
-Service attacks, managing backups, etc.)
-
-The github.com company is a commercial enterprise that runs a website
-called github.com. Github.com provides a service for hosting github
-repositories "in the cloud". The github.com company hosts open source
-projects for free (via free public repositories) and makes money by
-charging uses for hosting closed source projects in private
-repositories.
-
-In addition github licenses its software to various organizations that
-want to set up their own private "github" like servers within their
-enterprise. UCSB licensed this software and set up a github server
-called github.ucsb.edu that is based on your CSIL account.
-
-Some courses  may use github.com while others might use  github.ucsb.edu.
+You can also get many of these tools by using a bash shell for Windows such as the *git bash shell* that comes with *Git for Windows*, or the bash shell that is being provided with Windows 10.
