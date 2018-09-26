@@ -32,7 +32,7 @@ ssh username@csil-01.cs.ucsb.edu
 
 After you press enter, the system will ask you for your username and password for CSIL, and once that is completed you will be successfully remotely accessing a CSIl computer
 
-PLEASE NOTE if you have a Windows computer, you have to jump through a couple more hoops. See [Command Line](/_topics/command_line/) for instructions on programming through the command line
+PLEASE NOTE if you have a Windows computer, you have to jump through a couple more hoops. See [Command Line](/_topics/command_line.md) for instructions on programming through the command line
 
 # CSIL is the system of record
 
