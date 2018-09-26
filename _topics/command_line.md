@@ -22,15 +22,19 @@ Thankfully, there are a TON of different options for how you can go about this:
 * Cygwin is an option
 * You could run Linux in a virtual machine on your computer
 
-# How to download and set up MobaXTerm with CSIL
+# How to download MobaXTerm and connect to CSIL
 
 Click this [link](https://mobaxterm.mobatek.net/download-home-edition.html) and download MobaXTerm on your computer.
 Once downloaded and installed, open up the software.
 
-To start using CSIL, you must ssh into your account. There are two ways to do this with Mobax
+To start using CSIL, you must ssh into your account. There are two ways to do this with Mobax:
 
-1. Click on "Session" on the top lefthand corner, then "SSh" in the top left-hand corner of the window that pops up.
-  ![MobaX](/topics/mobax session ssh.PNG)
+
+1. Click on "Session" on the top lefthand corner, then "SSh" in the top left-hand corner of the window that pops up. Under "Remote Host" put your csil account WITHOUT your username (something like csil-01.cs.ucsb.edu) then press ok. A command line will pop up asking your your CSIL username and password.
+
+OR
+
+2. Simply click "Start Local Terminal" from the home page. Type in the command `ssh username@csil-01.cs.ucsb.edu` It will ask for your password.
 
 
 
