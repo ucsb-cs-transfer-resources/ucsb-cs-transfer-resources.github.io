@@ -10,8 +10,18 @@ For Mac users, you can easily pull up the command terminal and simply start typi
 # How to code through the command line for Windows
 
 Unfortunately for Windows users, you have to jump through a couple more hoops to successfully code through the command line.
-*If you opened the command terminal on a Windows computer, the terminal would not recignize y*
-There are a TON of different options for how you can go about this:
+*If you opened the command terminal on a Windows computer, the terminal would not recignize any of the commands you use*
+
+Thankfully, there are a TON of different options for how you can go about this:
+
+
+..*MobaXTerm 
+..*Putty with XMing
+..*"Git for Windows" gives you a bash shell with a bunch of the normal Unix commands
+..*Ubuntu Windows Subsystem may be a thing on your system
+..*Cygwin is an option
+..*You could run Linux in a virtual machine 
+
 
 
 
