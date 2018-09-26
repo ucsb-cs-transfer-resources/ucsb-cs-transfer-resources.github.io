@@ -30,7 +30,7 @@ Once downloaded and installed, open up the software.
 To start using CSIL, you must ssh into your account. There are two ways to do this with Mobax
 
 1. Click on "Session" on the top lefthand corner, then "SSh" in the top left-hand corner of the window that pops up.
-  ![MobaX](/topics/mobax session ssh.png)
+  ![MobaX](/topics/mobax session ssh.PNG)
 
 
 
