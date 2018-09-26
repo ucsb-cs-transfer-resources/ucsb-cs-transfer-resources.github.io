@@ -15,13 +15,21 @@ Unfortunately for Windows users, you have to jump through a couple more hoops to
 Thankfully, there are a TON of different options for how you can go about this:
 
 
-..*MobaXTerm 
-..*Putty with XMing
-..*"Git for Windows" gives you a bash shell with a bunch of the normal Unix commands
-..*Ubuntu Windows Subsystem may be a thing on your system
-..*Cygwin is an option
-..*You could run Linux in a virtual machine 
+*[MobaXTerm](https://mobaxterm.mobatek.net/) is a software that combines both ssh and X11. See below for tutorial to set it up
+*Putty with XMing is also software you can download. See [link](https://foo.cs.ucsb.edu/56wiki/index.php/CSIL_Access:Windows) for tutorial 
+*[Git for Windows](https://git-scm.com/) gives you a bash shell with a bunch of the normal Unix commands
+*Ubuntu Windows Subsystem may be a thing on your system
+*Cygwin is an option
+*You could run Linux in a virtual machine on your computer
 
+# How to download and set up MobaXTerm with CSIL
+
+Click this [link](https://mobaxterm.mobatek.net/download-home-edition.html) and download MobaXTerm on your computer.
+Once downloaded and installed, open up the software.
+
+To start using CSIL, you must ssh into your account. There are two ways to do this with Mobax
+
+1. Click on "Session" on the top lefthand corner, then "SSh" in the top left-hand corner of the window that pops up.
 
 
 
