@@ -41,3 +41,10 @@ Typically, professors and TAs say that your program "works" if and only if it "w
 So, if you are working on a program on your own machine, that's fine--but make sure before you
 turn it in, you test it on CSIL.
 
+# Downloading files from CSIl
+
+In order to access the files from your CSIL account you will have to use a software to download them.
+
+A software that is commonly known is [CyberDuck](https://cyberduck.io/)
+Once downloaded, you simply enter your CSIL account so they can be linked, and you should be able to download any files from CSIL to your own computer
+
