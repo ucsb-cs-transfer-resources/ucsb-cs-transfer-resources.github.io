@@ -7,4 +7,5 @@ desc: "Useful websites"
 |-|-|
 | First and last day of quarter  | [Academic Calendars](http://registrar.sa.ucsb.edu/calendars/calendars-deadlines/academic-calendars/academic-calendar-menu) | r, Univ. Holidays |
 | CS Course Plan for the Whole year (scroll down to bottom of page, e.g. to [2018 - 2019 Current CS Courses](https://www.cs.ucsb.edu/sites/cs.ucsb.edu/files/f/2018-19_proposed_cs_courses.pdf)) | [Courses](https://www.cs.ucsb.edu/education/courses) | 
+| Courses required for the major | [Courses](https://www.cs.ucsb.edu/education/undergrad/bachelor-science) |
 | List of Current Research in the CS Department | [Research](https://www.cs.ucsb.edu/research) |
